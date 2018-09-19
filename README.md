@@ -1,5 +1,5 @@
 # firmadyne-launcher
-This simple script will automate the process of firmware emulation through [firmadyne](https://github.com/firmadyne/firmadyne) and it is very useful when you want to just emulate a firmware without store any kind of emulation logs or information.
+This simple script automates the process of firmware emulation through [firmadyne](https://github.com/firmadyne/firmadyne) and it is very useful when you just want to emulate a firmware without storing any kind of logs or information.
 
 The main features of this tool are the following:
 - Takes as input a file and try to extract and emulate the firmware inside using the scripts provided by firmadyne.
