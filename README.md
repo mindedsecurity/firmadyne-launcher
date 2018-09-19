@@ -24,6 +24,6 @@ cd firmadyne
 
 If you want to try firmadyne and firmadyne-launcher, you can use the following firmwares as test cases:
 - [Netgear WNAP320](http://www.downloads.netgear.com/files/GDC/WNAP320/WNAP320%20Firmware%20Version%202.0.3.zip)
-- [D-Link DIR-850L](ftp://ftp.dlink.eu/Products/dir/dir-850l/driver_software/DIR-850L_fw_revA1_1-14B07beta_all_en_20170724.zip)
+- [D-Link DIR-850L](http://files.dlink.com.au/products/DIR-850L/REV_A/Firmware/Firmware_v1.14B07B01/DIR850LA1_FW114WWb07b01.bin)
 - [Netgear WN604](http://www.downloads.netgear.com/files/GDC/WN604/WN604%20Firmware%20Version%202.0.1.zip)
 
